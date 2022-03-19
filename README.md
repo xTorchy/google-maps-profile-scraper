@@ -28,7 +28,7 @@ Install dependencies
   npm install
 ```
 
-Start the scraper
+Run the script
 
 ```bash
   node index.js
