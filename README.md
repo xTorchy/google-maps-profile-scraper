@@ -36,7 +36,7 @@ Start the scraper
 
 ![App Screenshot](https://i.imgur.com/fTEkOHq.png)
 
-Get the link you want to scrape [here](https://www.google.es/maps/contrib). it has to be similar to this:
+Get the link you want to scrape [here](https://www.google.es/maps/contrib/). it has to be similar to this:
 
 ![App Screenshot](https://i.imgur.com/IWAUwNc.png)
 
